@@ -1,0 +1,28 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    color: rgb(234, 226, 183);
+}
+#about {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+body {
+    background-color: rgb(0, 48, 73);   
+    color: rgb(234, 226, 183);
+    font-size: 14px;    
+}
+.localizacao {
+    color: rgb(247, 127, 0);
+    font-weight: 600;
+}
+.link {
+    text-decoration: none;
+    color: rgb(234, 226, 183);
+}
+.importante {
+    font-size: 18px;
+}
+.lista {
+    line-height: 30px;
+}
